@@ -27,73 +27,16 @@ Building Production-Ready AI Systems • AWS • Jetson • Computer Vision
 </div>
 
 ---
+ ## 🚀 About Me
 
-# 💫 About Me
-
-```python
-class NishantJain:
-
-    def __init__(self):
-
-        self.role = "Software Engineer"
-
-        self.company = "Founding Engineer @ Cognicity Pvt. Ltd."
-
-        self.education = "Dual Degree M.Tech (IoT)"
-
-        self.university = "DAVV, Indore"
-
-        self.location = "Indore, Madhya Pradesh"
-
-        self.languages = [
-            "Python",
-            "JavaScript",
-            "SQL",
-            "C++"
-        ]
-
-        self.backend = [
-            "Flask",
-            "REST APIs",
-            "Gunicorn",
-            "Nginx"
-        ]
-
-        self.ai = [
-            "YOLO",
-            "OpenCV",
-            "TensorFlow",
-            "Scikit-Learn",
-            "LLMs",
-            "Generative AI"
-        ]
-
-        self.cloud = [
-            "AWS EC2",
-            "Ubuntu",
-            "Docker",
-            "GitHub Actions"
-        ]
-
-        self.hardware = [
-            "Jetson Nano",
-            "ESP32",
-            "Arduino",
-            "PLC"
-        ]
-
-        self.current_focus = [
-            "Edge AI",
-            "Computer Vision",
-            "Distributed Systems",
-            "Cloud Deployment"
-        ]
-
-        self.goal = "Building Intelligent Software used by millions."
-
-```
-
----
+- 🔭 **Founding Engineer – AI & Computer Vision** @ Cognicity Pvt. Ltd.
+- 🎓 Dual Degree **M.Tech (IoT)**, DAVV Indore
+- 💡 Passionate about **Computer Vision, Edge AI, Full-Stack Development & Distributed Systems**
+- 🧠 Working with **YOLO, OpenCV, TensorFlow, LLMs, Flask & AWS**
+- 🚀 Deploying production-ready AI systems on **Jetson Nano & AWS EC2**
+- 🏆 Winner – Sustainathon 2025
+- 🥈 Top Finalist – MPSEDC Mahakumbh Hackathon 2025
+- 🌱 Currently exploring **CUDA, Kubernetes & Agentic AI**
 
 # 🚀 Professional Experience
 
