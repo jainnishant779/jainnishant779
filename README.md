@@ -1,22 +1,18 @@
-<h1 align="center">Hi 👋, I'm Nishant Jain</h1>
+<div align="center">
 
-<h3 align="center">
-AI/ML Engineer • Computer Vision • Edge AI • IoT • Full Stack Developer
-</h3>
+# Hi 👋, I'm Nishant Jain
 
-<p align="center">
-Building Real-Time AI Systems | NVIDIA Jetson | YOLO | Deep Learning | Robotics
-</p>
+### Software Engineer • AI/ML • Computer Vision • Full Stack • Edge AI
 
----
+Building Production-Ready AI Systems • AWS • Jetson • Computer Vision
 
-<p align="center">
+<p>
 
 <a href="https://linkedin.com/in/YOUR_LINKEDIN">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="mailto:YOUR_EMAIL">
+<a href="mailto:jainnishant779@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
@@ -24,217 +20,293 @@ Building Real-Time AI Systems | NVIDIA Jetson | YOLO | Deep Learning | Robotics
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
 </a>
 
-<img src="https://komarev.com/ghpvc/?username=jainnishant779&style=for-the-badge&color=blue"/>
+<img src="https://komarev.com/ghpvc/?username=jainnishant779&style=for-the-badge"/>
 
 </p>
 
+</div>
+
 ---
 
-# 🚀 About Me
+# 💫 About Me
 
 ```python
 class NishantJain:
 
     def __init__(self):
 
-        self.role = "AI/ML Engineer"
+        self.role = "Software Engineer"
 
-        self.company = "Cognicity Pvt. Ltd."
+        self.company = "Founding Engineer @ Cognicity Pvt. Ltd."
 
-        self.education = "Integrated M.Tech (IoT)"
+        self.education = "Dual Degree M.Tech (IoT)"
 
-        self.location = "Indore, India"
+        self.university = "DAVV, Indore"
 
-        self.specialization = [
-            "Computer Vision",
-            "Edge AI",
-            "Deep Learning",
-            "Embedded AI"
+        self.location = "Indore, Madhya Pradesh"
+
+        self.languages = [
+            "Python",
+            "JavaScript",
+            "SQL",
+            "C++"
+        ]
+
+        self.backend = [
+            "Flask",
+            "REST APIs",
+            "Gunicorn",
+            "Nginx"
+        ]
+
+        self.ai = [
+            "YOLO",
+            "OpenCV",
+            "TensorFlow",
+            "Scikit-Learn",
+            "LLMs",
+            "Generative AI"
+        ]
+
+        self.cloud = [
+            "AWS EC2",
+            "Ubuntu",
+            "Docker",
+            "GitHub Actions"
         ]
 
         self.hardware = [
             "Jetson Nano",
             "ESP32",
             "Arduino",
-            "Orange Pi",
-            "Raspberry Pi"
-        ]
-
-        self.languages = [
-            "Python",
-            "C++",
-            "JavaScript",
-            "SQL"
+            "PLC"
         ]
 
         self.current_focus = [
-            "YOLO",
-            "LLMs",
             "Edge AI",
-            "Cloud AI"
+            "Computer Vision",
+            "Distributed Systems",
+            "Cloud Deployment"
         ]
 
-        self.fun_fact = "Built patent-worthy Edge AI solution in only 2 months 🚀"
+        self.goal = "Building Intelligent Software used by millions."
 
 ```
 
 ---
 
-# 💻 Tech Stack
+# 🚀 Professional Experience
 
-### Languages
+### 🏢 Founding Engineer — AI & Computer Vision
+
+**Cognicity Pvt. Ltd.**
+
+- Production AI Development
+- Computer Vision
+- YOLO
+- Edge AI
+- Client Deployment
+- System Design
+- LLM Assisted Development
+
+---
+
+### 🧠 Machine Learning Intern
+
+**Cognicity Pvt. Ltd.**
+
+- Deep Learning
+- Hyperparameter Tuning
+- Jetson Deployment
+- Production Inference
+
+---
+
+# 🛠 Tech Stack
+
+## Languages
 
 <p>
-
-<img src="https://skillicons.dev/icons?i=python,cpp,c,js,html,css,mysql"/>
-
+<img src="https://skillicons.dev/icons?i=python,cpp,js,html,css,mysql,bash"/>
 </p>
 
-### AI / ML
+## AI / ML
 
 <p>
-
 <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv"/>
-
 </p>
 
-YOLO • Deep Learning • Computer Vision • NLP • Segmentation • Object Detection
+YOLO • Computer Vision • Deep Learning • LLM • OpenCV • Scikit Learn
 
 ---
 
-### Cloud
+## Backend
 
 <p>
-
-<img src="https://skillicons.dev/icons?i=aws,gcp,docker,kubernetes,linux,git"/>
-
+<img src="https://skillicons.dev/icons?i=flask,nodejs"/>
 </p>
+
+REST API • Gunicorn • Nginx
 
 ---
 
-### Hardware
+## Cloud
 
-ESP32 • Arduino • NVIDIA Jetson • Raspberry Pi • Orange Pi
+<p>
+<img src="https://skillicons.dev/icons?i=aws,docker,linux,git,github"/>
+</p>
+
+AWS EC2
+
+Ubuntu Server
+
+CI/CD
+
+Systemd
+
+SSH
 
 ---
 
-# 📊 GitHub Stats
+## Embedded
 
-<p align="center">
+Jetson Nano
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=jainnishant779&show_icons=true&theme=tokyonight"/>
+ESP32
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jainnishant779&layout=compact&theme=tokyonight"/>
+Arduino
 
-</p>
+PLC
 
----
+UART
 
-# 🔥 GitHub Streak
+I2C
 
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=jainnishant779&theme=tokyonight"/>
-
-</p>
-
----
-
-# 📈 Contribution Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=jainnishant779&theme=tokyo-night"/>
-
-</p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=jainnishant779&theme=algolia&row=2&column=4"/>
-
-</p>
+TCP/IP
 
 ---
 
 # 🚀 Featured Projects
 
-### 🔥 Edge AI Orchestration
+## 🎯 AI Attendance System
 
-Patent-worthy AI orchestration framework for edge devices.
+Production-ready Facial Recognition Attendance System
 
-**Tech**
+Technology
 
-Python • Docker • Kubernetes • MQTT • Jetson
-
----
-
-### 🐔 Poultry Monitoring AI
-
-Real-time chicken detection using YOLO11 Segmentation.
-
-Features
-
-- Multi-scale Detection
-- Stable Segmentation
-- DeepSORT Tracking
-- Activity Detection
+- Flask
+- OpenCV
+- dlib
+- AWS EC2
+- Gunicorn
+- Nginx
+- MySQL
 
 ---
 
-### 🚗 Fleet Management System
+## 👥 Crowd Analytics & Stampede Detection
 
-Real-time remote device management.
+Real-time Crowd Monitoring System
 
-Features
+Technology
 
-- Remote Access
-- VNC
-- Device Monitoring
-- OTA Updates
+- YOLO
+- ByteTrack
+- Jetson Nano
+- OpenCV
 
----
-
-### 🤖 Smart IoT Automation
-
-ESP32 based automation system with cloud integration.
+🏆 MPSEDC Mahakumbh Hackathon Finalist
 
 ---
 
-# 📜 Certifications
+## 🐔 Poultry Health Monitoring
 
-- NVIDIA Deep Learning
-- AWS Cloud
-- Python
-- Machine Learning
+Real-time AI Monitoring using YOLO
 
----
-
-# 🌱 Currently Learning
-
-- Agentic AI
-- LLM Fine-Tuning
-- CUDA Optimization
-- Distributed AI
-- Kubernetes
+- Dataset Creation
+- Annotation
+- Training
+- Deployment
 
 ---
 
-# 📫 Reach Me
+# 🏆 Awards
 
-📧 YOUR_EMAIL
+🥇 Winner — Sustainathon 2025
 
-💼 LinkedIn
+🏅 Top Finalist — MPSEDC Mahakumbh Hackathon
 
-🌐 Portfolio
+🎖 CO₂ Laser Technology Training — RRCAT
+
+🎖 Mitsubishi PLC Training
+
+🎖 Data Science Certification
+
+---
+
+# 📊 GitHub Analytics
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=jainnishant779&show_icons=true&theme=github_dark"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jainnishant779&layout=compact&theme=github_dark"/>
+
+</p>
 
 ---
 
 <p align="center">
 
-⭐ If you like my work, consider giving a star!
+<img src="https://streak-stats.demolab.com?user=jainnishant779&theme=github-dark-blue"/>
 
 </p>
+
+---
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=jainnishant779&theme=github-compact"/>
+
+</p>
+
+---
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=jainnishant779&theme=algolia&column=4"/>
+
+</p>
+
+---
+
+# 🌱 Currently Learning
+
+- Distributed Systems
+- Kubernetes
+- CUDA Optimization
+- LLM Engineering
+- Multi-Agent AI
+- Edge AI Orchestration
+
+---
+
+# 📫 Contact
+
+📧 jainnishant779@gmail.com
+
+📍 Indore, Madhya Pradesh
+
+💼 LinkedIn
+
+🌐 GitHub
+
+---
+
+<div align="center">
+
+### Thanks for visiting ❤️
+
+⭐ Star my repositories if you find them useful.
+
+</div>
